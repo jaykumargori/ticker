@@ -1,6 +1,6 @@
 # Ticker
 
-A real-time market-data dashboard that works the way Zerodha Kite and Groww push live
+A real-time market-data dashboard that works the way trading platforms push live
 prices. A Go server streams prices to the browser over a compact binary WebSocket protocol,
 and a SolidJS frontend renders them with sub-millisecond update cost.
 
